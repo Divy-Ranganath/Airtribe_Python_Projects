@@ -1,0 +1,20 @@
+[
+    {
+    "id": 1,
+    "name": "Divya R",
+    "email": "divya.r@gmail.com",
+    "team": "Migrations"
+    },
+    {
+    "id": 2,
+    "name": "Gowtham K",
+    "email": "gowtham.k@gmail.com",
+    "team": "Infra"
+    },
+    {
+    "id": 3,
+    "name": "Ullas U",
+    "email": "ullas.u@gmail.com",
+    "team": "DB"
+    }
+]

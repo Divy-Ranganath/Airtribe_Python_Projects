@@ -1,0 +1,19 @@
+ [
+    {
+    "id": 1,
+    "title": "Application is down",
+    "description": "Jira application is down",
+    "status": "open",
+    "priority": "critical",
+    "reporter_id": 1
+    },
+
+    {
+    "id": 2,
+    "title": "User unable to access Jira",
+    "description": "User ABC is not able to access Jira",
+    "status": "in_progress",
+    "priority": "high",
+    "reporter_id": 2
+    }
+]
